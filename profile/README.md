@@ -8,7 +8,7 @@ EuclidOS is a minimal AOSP-based ROM named after the mathematician Euclid. It fo
 
 ### Initialize local repository
 ```
-repo init -u https://github.com/euclidTeam/manifest.git -b qpr3 --git-lfs
+repo init -u https://github.com/euclidTeam/manifest.git -b 16-new --git-lfs
 ```
 ### Sync up
 ```
