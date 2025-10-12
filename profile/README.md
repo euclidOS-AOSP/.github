@@ -45,3 +45,4 @@ Special thanks to all of them below:
 - [Pixel Experience](https://github.com/PixelExperience)
 - [DroidX-UI](https://github.com/DroidX-UI)
 - [Project Matrixx](https://github.com/ProjectMatrixx)
+- [Voltage OS](https://github.com/VoltageOS)
