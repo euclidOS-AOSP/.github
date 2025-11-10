@@ -8,7 +8,7 @@ EuclidOS is a minimal AOSP-based ROM named after the mathematician Euclid. It fo
 
 ### Initialize local repository
 ```
-repo init -u https://github.com/euclidTeam/manifest.git -b 16 --git-lfs
+repo init -u https://github.com/euclidOS-AOSP/manifest.git -b 16 --git-lfs
 ```
 ### Sync up
 ```
@@ -46,3 +46,4 @@ Special thanks to all of them below:
 - [DroidX-UI](https://github.com/DroidX-UI)
 - [Project Matrixx](https://github.com/ProjectMatrixx)
 - [Voltage OS](https://github.com/VoltageOS)
+- [Lunaris AOSP](https://github.com/Lunaris-AOSP)
