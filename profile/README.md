@@ -17,8 +17,8 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags --optimiz
 
 
 ### Important Repositories ###
-- [Manifest](https://github.com/euclidTeam/manifest)
-- [Vendor](https://github.com/euclidTeam/vendor_euclid)
+- [Manifest](https://github.com/euclidOS-AOSP/manifest)
+- [Vendor](https://github.com/euclidOS-AOSP/vendor_lineage)
 - [euclidOS-Devices](https://github.com/euclid-Devices/)
 
 ### Important Links ###
